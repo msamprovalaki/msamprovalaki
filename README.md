@@ -21,8 +21,11 @@ Here are some ideas to get you started:
  
 ### 🤝 Connect with me:
 
-<a href="mailto:info@edx.org"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/mail.jpg" alt="Marina Samprovalaki | LinkedIn" width="20px"/></a> 
-<a href="https://www.linkedin.com/in/marina-samprovalaki/"><img  src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/linkedin.svg" alt="Marina Samprovalaki | LinkedIn" width="20px"/></a> 
+<a href="mailto:info@edx.org"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/mail.jpg" alt="Marina Samprovalaki | LinkedIn" width="20px"/>
+</a> 
+<a href="https://www.linkedin.com/in/marina-samprovalaki/"><img  src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/linkedin.svg" alt="Marina Samprovalaki | LinkedIn" width="20px"/>
+</a> 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 </br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
