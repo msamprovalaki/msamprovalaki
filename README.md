@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🎓 Undergratuated Computer Science Student @ AUEB </br>
-👀 Interested in Data Science, Cyber Security, Network Engineer </br>
+👀 Interested in Data Science, Cyber Security, Software Engineer </br>
 👯 I’m looking to collaborate on ML/DL projects </br>
 
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=marina-sam14.marina-sam14)
