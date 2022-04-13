@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on ML/DL projects </br>
 🔭 I'm currently working as Intern Software Engineer at 7lInternational 
 
+ ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=marina-sam14.marina-sam14)
+
 <h3 align="left">Languages and Tools (A to Z):</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -44,7 +46,7 @@ Here are some ideas to get you started:
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=marina-sam14.marina-sam14)
+
 ## 📫 How to reach me: 
 
 <a href="mailto:marina.samb14@gmail.com"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/mail.jpg" alt="Marina Samprovalaki | LinkedIn" width="20px"/>
