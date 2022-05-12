@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 <a href="mailto:marina.samb14@gmail.com"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/mail.jpg" alt="Marina Samprovalaki | LinkedIn" width="20px"/>
 </a> 
 <a href="https://www.linkedin.com/in/marina-samprovalaki/"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/linkedin.svg" alt="Marina Samprovalaki | LinkedIn" width="20px"/>
+</a>
+<a href="https://medium.com/@marinasamprovalaki"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/1_jfdwtvU6V6g99q3G7gq7dQ.svg" alt="Marina Samprovalaki | Medium" width="20px"/>
  
  [![Kaggle](https://img.shields.io/badge/kaggle-blue)](https://www.kaggle.com/marinasam)
 </a> 
