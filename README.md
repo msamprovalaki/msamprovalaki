@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 </a> 
 <a href="https://www.linkedin.com/in/marina-samprovalaki/"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/linkedin.svg" alt="Marina Samprovalaki | LinkedIn" width="20px"/>
 </a>
-<a href="https://medium.com/@marinasamprovalaki"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/1_jfdwtvU6V6g99q3G7gq7dQ.svg" alt="Marina Samprovalaki | Medium" width="20px"/>
+<a href="https://medium.com/@marinasamprovalaki"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/medium.jpg" alt="Marina Samprovalaki | Medium" width="30px"/>
  
  [![Kaggle](https://img.shields.io/badge/kaggle-blue)](https://www.kaggle.com/marinasam)
 </a> 
