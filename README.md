@@ -2,7 +2,6 @@
 
 
 🎓 Undergratuated Computer Science Student @ AUEB </br>
-🔭 Software Engineer at [7LInternational](https://7linternational.com) </br>
 👀 Interested in Data Science, Machine Learning and Software Engineer </br>
 👯 I’m looking to collaborate on ML/DL projects </br>
 
