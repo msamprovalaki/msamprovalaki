@@ -12,7 +12,7 @@
 <table><tr><td valign="top" width="33%">
 
 
-### Languages  
+### 📚 Languages 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -31,7 +31,7 @@
 
 
 
-### Tools  
+### 🛠️ Tools 
 <div align="center">  
  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" width="40" height="40"/> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />   
@@ -54,7 +54,7 @@
 
 
 
-### Machine Learning
+### 🦾 Machine Learning 
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/> 
