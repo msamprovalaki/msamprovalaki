@@ -1,7 +1,7 @@
 ## Hi there, I'm Marina  👋
 
 
-🎓 Undergratuated Computer Science Student @ AUEB </br>
+🎓 BSc in Computer Science @ AUEB </br>
 👀 Interested in Data Science, Machine Learning and Software Engineer </br>
 👯 I’m looking to collaborate on ML/DL projects </br>
 
