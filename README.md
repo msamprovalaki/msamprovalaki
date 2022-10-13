@@ -2,7 +2,7 @@
 
 
 🎓 BSc in Computer Science @ AUEB </br>
-👀 Interested in Data Science, Machine Learning and Software Engineer </br>
+👀 Interested in Data Science, Machine Learning and Deep Learning </br>
 👯 I’m looking to collaborate on ML/DL projects </br>
 
 
