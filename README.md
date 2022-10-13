@@ -82,7 +82,7 @@
 </a>
 <a href="https://medium.com/@marinasamprovalaki"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/medium.jpg" alt="Marina Samprovalaki | Medium" width="40" height="40"/>
  
- [![Kaggle](https://img.shields.io/badge/kaggle-blue)](https://www.kaggle.com/marinasam)
+##
 </a> 
 </br>
 <div align="center">
@@ -91,9 +91,9 @@
 <br>
 </br>
 
-![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=marina-sam14&show_icons=true&theme=tokyonight)
+ ![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=marina-sam14&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-sam14&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-sam14&layout=compact)
 
 
 
