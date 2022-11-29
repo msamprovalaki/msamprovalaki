@@ -1,7 +1,7 @@
 ## Hi there, I'm Marina  👋
 
 
-🎓 BSc in Computer Science @ AUEB </br>
+🎓 BSc in Computer Science @ [AUEB](https://www.aueb.gr) </br>
 💼 Working as Full Stack Developer at [HOMI Greece!](https://homi.com.gr) </br>
 👀 Interested in Data Science, Machine Learning and Deep Learning </br>
 👯 I’m looking to work on ML/DL projects </br>
