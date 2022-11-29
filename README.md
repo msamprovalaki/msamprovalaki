@@ -79,11 +79,11 @@
 
 ## 📫 How to reach me: 
 
-<a href="mailto:marina.samb14@gmail.com"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/mail.jpg" alt="Marina Samprovalaki | LinkedIn" width="40" height="40"/>
+<a href="mailto:marina.samb14@gmail.com"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/mail.jpg" alt="Marina Samprovalaki | LinkedIn" width="40" height="40" target="_blank"/>
 </a> 
-<a href="https://www.linkedin.com/in/marina-samprovalaki/"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/linkedin.svg" alt="Marina Samprovalaki | LinkedIn" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/marina-samprovalaki/"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/linkedin.svg" alt="Marina Samprovalaki | LinkedIn" width="40" height="40" target="_blank"/>
 </a>
-<a href="https://medium.com/@marinasamprovalaki"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/medium.jpg" alt="Marina Samprovalaki | Medium" width="40" height="40"/>
+<a href="https://medium.com/@marinasamprovalaki"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/medium.jpg" alt="Marina Samprovalaki | Medium" width="40" height="40" target="_blank"/>
  
 ##
 </a> 
