@@ -89,12 +89,12 @@
 </a> 
 </br>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=marina-sam14&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=marina-sam14&&style=flat-square" align="center" color="grey" />
 </div> 
 <br>
 </br>
 
- ![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=marina-sam14&show_icons=true&theme=tokyonight)
+ ![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=marina-sam14&theme=midnight-purple&show_icons=true)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-sam14&layout=compact)
 
