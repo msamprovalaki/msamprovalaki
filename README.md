@@ -88,7 +88,7 @@
 ##
 </a> 
 </br>
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=marina-sam14&&style=flat-square" align="center" color="grey" />
 </div> 
 <br>
