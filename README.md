@@ -96,7 +96,9 @@
 
  ![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=marina-sam14&theme=midnight-purple&show_icons=true)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-sam14&layout=compact)
+<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-sam14&layout=compact) -->
+<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-sam14&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=monokai" />
+
 
 
 
