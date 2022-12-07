@@ -35,7 +35,8 @@
 
 ### 🛠️ Tools 
 <div align="center">  
- <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" width="40" height="40"/> 
+ <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter Notebook" width="40" height="40"/> 
+ <img src="https://www.svgrepo.com/show/354512/vercel.svg" alt="Vercel" width="40" height="40"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
