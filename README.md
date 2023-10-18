@@ -1,7 +1,7 @@
 ## Hi there, I'm Marina  👋
 
 
-🎓 BSc in Computer Science @ [AUEB](https://www.aueb.gr) </br>
+🎓 MSc Student in Computer Science @ [AUEB](https://www.aueb.gr) </br>
 👀 Interested in Data Science, Machine Learning and Deep Learning </br>
 👯 I’m looking to collaborate on ML/DL projects </br>
 
