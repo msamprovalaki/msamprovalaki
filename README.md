@@ -87,6 +87,7 @@
 <a href="https://www.linkedin.com/in/marina-samprovalaki/" target="_blank"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/linkedin.svg" alt="Marina Samprovalaki | LinkedIn" width="40" height="40"/>
 </a>
 <a href="https://medium.com/@marinasamprovalaki" target="_blank"><img src="https://raw.githubusercontent.com/marina-sam14/marina-sam14/main/images/medium.jpg" alt="Marina Samprovalaki | Medium" width="40" height="40"/>
+ <a href="https://www.researchgate.net/profile/Marina-Samprovalaki" target="_blank"><img src="https://static-00.iconduck.com/assets.00/researchgate-icon-2047x2048-5zkr6kip.png" alt="Marina Samprovalaki | ResearchGate" width="40" height="40"/>
  </div>
  
 ##
