@@ -23,6 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msamprovalaki&show_icons=true&locale=en&layout=compact&line_height=20&theme=midnight-purple" width="375"  alt="0xabdulkhalid"/>
 
 </a>
+</div>
 
 
 
