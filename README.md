@@ -16,21 +16,15 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <!-- GitHub Stats -->
-  <div>
-    <a href="https://github.com/msamprovalaki">
-      <img src="https://github-readme-stats.vercel.app/api?username=msamprovalaki&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=midnight-purple" width="1150" alt="GitHub Stats"/>
-    </a>
-  </div>
+<div align="center">
 
-  <!-- Top Languages -->
-  <div>
-    <a href="https://github.com/msamprovalaki">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msamprovalaki&show_icons=true&locale=en&layout=compact&line_height=20&theme=midnight-purple" width="875" alt="Top Languages"/>
-    </a>
-  </div>
-</div>
+<a href="https://github.com/gody10/">
+  <img src="https://github-readme-stats.vercel.app/api?username=msamprovalaki&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=midnight-purple" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msamprovalaki&show_icons=true&locale=en&layout=compact&line_height=20&theme=midnight-purple" width="375"  alt="0xabdulkhalid"/>
+
+</a>
+
+
 
 
 
