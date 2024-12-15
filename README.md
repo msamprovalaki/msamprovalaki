@@ -1,8 +1,8 @@
 ## Hi there, I'm Marina  👋
 
-🎓 MSc Student in Computer Science @ [AUEB](https://www.aueb.gr) </br>
-👀 Interested in Data Science, Machine Learning and Deep Learning </br>
-👯 I’m looking to collaborate on ML/DL projects </br>
+💼 AI Enginner @ [Agile Actors](https://www.agileactors.com) </br>
+🎓 MSc Student in Computer Science by Research @ [AUEB](https://www.aueb.gr) </br>
+👀 Research interestings: Image Captioning, Object Detection, Large Language Models, Multimodal Large Language Models, Text Generation, Reinforcement Learning from Human Feedback
 
 </a> 
 </br>
