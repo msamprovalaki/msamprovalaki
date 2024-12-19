@@ -30,7 +30,7 @@
 
 
 
-## 🤝 Connect with me 
+## 🤝 Let's talk 
 
 <div align="center">
 
