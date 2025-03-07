@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<a href="https://github.com/gody10/">
+<a href="https://github.com/msamprovalaki/">
   <img src="https://github-readme-stats.vercel.app/api?username=msamprovalaki&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=midnight-purple" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msamprovalaki&show_icons=true&locale=en&layout=compact&line_height=20&theme=midnight-purple" width="375"  alt="0xabdulkhalid"/>
 
