@@ -2,7 +2,7 @@
 
 💼 AI Enginner @ [Agile Actors](https://www.agileactors.com) </br>
 🎓 MSc Student in Computer Science by Research @ [AUEB](https://www.aueb.gr) </br>
-👀 Research interestings: Image Captioning, Object Detection, Large Language Models, Multimodal Large Language Models, Text Generation, Reinforcement Learning from Human Feedback
+👀 Research interestings: Image Captioning, Object Detection, VLMs, Text Generation, Reinforcement Learning from Human Feedback
 
 </a> 
 </br>
