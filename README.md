@@ -8,7 +8,7 @@
 
 [![MSc](https://img.shields.io/badge/🎓_MSc_CS-AUEB-0F6E56?style=flat-square&labelColor=E1F5EE&color=0F6E56)](https://www.aueb.gr)
 
-<img src="https://komarev.com/ghpvc/?username=marina-sam14&style=flat-square&color=blueviolet" />
+<!-- <img src="https://komarev.com/ghpvc/?username=msamprovalakia&style=flat-square&color=blueviolet" /> -->
 
 </div>
 
