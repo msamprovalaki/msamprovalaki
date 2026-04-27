@@ -1,62 +1,32 @@
-## Hi there, I'm Marina  👋
-
-💼 AI Enginner @ [Agile Actors](https://www.agileactors.com) </br>
-🎓 MSc in Computer Science by Research @ [AUEB](https://www.aueb.gr) </br>
-👀 Research interestings: Image Captioning, Object Detection, VLMs, Text Generation, Reinforcement Learning from Human Feedback
-
-</a> 
-</br>
-<img src="https://komarev.com/ghpvc/?username=marina-sam14&&style=flat-square" align="left" color="grey" />
-
-<br>
-</br>
-
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
 <div align="center">
 
-<a href="https://github.com/msamprovalaki/">
-  <img src="https://github-readme-stats.vercel.app/api?username=msamprovalaki&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=midnight-purple" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msamprovalaki&show_icons=true&locale=en&layout=compact&line_height=20&theme=midnight-purple" width="375"  alt="0xabdulkhalid"/>
+## Hi, I'm Marina 👋
 
-</a>
+*AI Engineer · NLP Researcher*
+
+[![AI Engineer](https://img.shields.io/badge/💼_AI_Engineer-Agile_Actors-7F77DD?style=flat-square&labelColor=EEEDFE&color=7F77DD)](https://www.agileactors.com)
+
+[![MSc](https://img.shields.io/badge/🎓_MSc_CS-AUEB-0F6E56?style=flat-square&labelColor=E1F5EE&color=0F6E56)](https://www.aueb.gr)
+
+<img src="https://komarev.com/ghpvc/?username=marina-sam14&style=flat-square&color=blueviolet" />
+
 </div>
 
+---
+
+### 🔬 Research Interests
+
+`Image Captioning` &nbsp; `Object Detection` &nbsp; `Vision-Language Models` &nbsp; `RLHF`
 
 
-
-
-
-## 🤝 Let's talk 
+---
+### 📬 Get in Touch
 
 <div align="center">
 
-<a href="https://msamprovalaki.github.io" target="_blank"><img src="https://img.icons8.com/?size=100&id=9918&format=png&color=FFFFFF" alt="Marina Samprovalaki | Google Scholar" width="40" height="40"/>
-</a>
-<a href="mailto:marina.samprovalaki@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=Y2GfpkgYNp42&format=png&color=FFFFFF" alt="Marina Samprovalaki | LinkedIn" width="40" height="40" />
-</a> 
-<a href="https://www.linkedin.com/in/marina-samprovalaki/" target="_blank"><img src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" alt="Marina Samprovalaki | LinkedIn" width="40" height="40"/>
-</a>
-<a href="https://scholar.google.com/citations?user=iRPZ3joAAAAJ&hl=en&authuser=1" target="_blank"><img src="https://img.icons8.com/?size=100&id=okYCvWotC0uX&format=png&color=FFFFFF" alt="Marina Samprovalaki | Google Scholar" width="40" height="40"/>
-</a>
+[![Website](https://img.shields.io/badge/Website-7F77DD?style=for-the-badge&logo=github&logoColor=white)](https://msamprovalaki.github.io)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D85A30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marina.samprovalaki@gmail.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-185FA5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-samprovalaki/)&nbsp;&nbsp;
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-1D9E75?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=iRPZ3joAAAAJ&hl=en&authuser=1)
 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
