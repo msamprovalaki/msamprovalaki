@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I'm Marina 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Marina+👋)](https://git.io/typing-svg)
 
 *AI Engineer · NLP Researcher*
 
@@ -18,8 +18,8 @@
 
 `Image Captioning` &nbsp; `Object Detection` &nbsp; `Vision-Language Models` &nbsp; `RLHF`
 
-
 ---
+
 ### 📬 Get in Touch
 
 <div align="center">
