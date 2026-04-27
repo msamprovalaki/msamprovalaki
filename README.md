@@ -16,7 +16,7 @@
 
 ### 🔬 Research Interests
 
-`Image Captioning` &nbsp; `Object Detection` &nbsp; `Vision-Language Models` &nbsp; `RLHF`
+`AgenticAI`  &nbsp; `LLMs Evaluation` &nbsp;  `Image Captioning` &nbsp; `Object Detection` &nbsp; `Vision-Language Models` &nbsp; `RLHF`
 
 ---
 
