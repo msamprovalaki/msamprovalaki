@@ -6,7 +6,7 @@
 
 [![AI Engineer](https://img.shields.io/badge/💼_AI_Engineer-Agile_Actors-7F77DD?style=flat-square&labelColor=EEEDFE&color=7F77DD)](https://www.agileactors.com)
 
-[![MSc](https://img.shields.io/badge/🎓_MSc_CS-AUEB-0F6E56?style=flat-square&labelColor=E1F5EE&color=0F6E56)](https://www.aueb.gr)
+[![MSc by Research in Computer Science](https://img.shields.io/badge/🎓_MSc_by_Research_in_Computer_Science-AUEB-0F6E56?style=flat-square&labelColor=E1F5EE&color=0F6E56)](https://www.aueb.gr)
 
 <!-- <img src="https://komarev.com/ghpvc/?username=msamprovalakia&style=flat-square&color=blueviolet" /> -->
 
