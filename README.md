@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Marina+👋)](https://git.io/typing-svg)
 
-*AI Engineer · NLP Researcher*
+*AI Engineer*
 
 [![AI Engineer](https://img.shields.io/badge/💼_AI_Engineer-Agile_Actors-7F77DD?style=flat-square&labelColor=EEEDFE&color=7F77DD)](https://www.agileactors.com)
 
